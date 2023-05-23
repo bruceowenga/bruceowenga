@@ -30,6 +30,11 @@ https://open.spotify.com/playlist/37i9dQZF1DX692WcMwL2yW
 
 ## 📝My Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cryptocurrency Mining: What Exactly Is It?](https://techtribune.buzz/cryptocurrency-mining-what-exactly-is-it/)
+- [Bitcoin Halving: What it is](https://techtribune.buzz/bitcoin-halving-what-it-is/)
+- [The Difference between Python’s pass and continue Statements](https://techtribune.buzz/the-difference-between-pythons-pass-and-continue-statements/)
+- [OpenAI shifts focus to ChatGPT API release](https://techtribune.buzz/openai-shifts-focus-to-chatgpt-api-release/)
+- [No-code and What It Means for Developers](https://techtribune.buzz/no-code-and-what-it-means-for-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
