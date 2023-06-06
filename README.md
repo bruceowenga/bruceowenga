@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Jambo 👋, I'm Bruce</h1>
 <h3 align="center">A software engineer from Nairobi</h3>
 
