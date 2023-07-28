@@ -4,6 +4,8 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruceowenga&show_icons=true&theme=dark) -->
 
 ## 💬 Ask me about
+- Web3 Development
+- Smart Contract Development
 - Backend web development (Python, Node.js)
 - Frontend web development (React.js, Next.js)
 - Blockchain
