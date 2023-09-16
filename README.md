@@ -1,5 +1,5 @@
 <h1 align="center">Jambo 👋, I'm Bruce</h1>
-<h3 align="center">A software engineer from Nairobi</h3>
+<h3 align="center">A Software Engineer from Nairobi</h3>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruceowenga&show_icons=true&theme=dark) -->
 
